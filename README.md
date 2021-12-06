@@ -18,3 +18,7 @@ Change the **name of the repository** so that it reflects your purpose.
 **Share the link** with your friends, your family, your fellow students. Talk about your ideas, your hopes, your successes.
 
 Enjoy taking on a challenge that seems too big in the beginning, and gradually becomes realistic as your skills improve : )
+
+
+***My thoughts***
+I would like to make an app that allows you to search for certain Drs who speak certain languages with specialities if needed.  this would also be availabel in mulitple langauges with an emergency help function.
